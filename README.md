@@ -1,0 +1,1 @@
+A mini project for practicing ML, text preprocessing and NLP. The creit for the code goes to Krish Naik. Link to Youtube video - https://www.youtube.com/watch?v=fA5TSFELkC0&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=10
